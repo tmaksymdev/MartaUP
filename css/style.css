@@ -311,3 +311,23 @@ a {
    left: 0;
    right: 0;
 }
+
+
+.footer {
+}
+
+.footer__inner {
+   align-items: center;
+   display: flex;
+   justify-content: space-between;
+   height: 61px;
+   color: #272727;
+   padding: 0 40px;
+}
+
+.footer__link a + a {
+   margin-left: 20px;
+}
+
+.footer__copy {
+}
